@@ -79,7 +79,7 @@ deploy:
 - type: rsync
   host: 101.200.166.134
   user: blog
-  root: /home/blog/hexo
+  root: /home/blog/tyrionBlog
   port: 22
   delete: true
   verbose: true
