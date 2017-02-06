@@ -8,7 +8,9 @@ tags:
   - Shadowsocks
 date: 2017-02-04 15:46:22
 ---
-![](http://cdn.tyrion.wang/shadowsocks_title.jpg)
+![](http://cdn.tyrion.wang/shadowsocks_title.png)
+轻量级科学上网姿势
+
 <!-- more -->
 ## 在之前你需要知道的
 
