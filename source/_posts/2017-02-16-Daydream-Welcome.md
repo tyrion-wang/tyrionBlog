@@ -8,7 +8,7 @@ tags:
 date: 2017-02-16 16:57:22
 ---
 
-![](http://cdn.tyrion.wang/Welcome_0.0_title.png)
+![](http://cdn.tyrion.wang/Welcome_0.0_title.jpg)
 
 <!--more-->
 # Welcome结构
