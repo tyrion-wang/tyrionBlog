@@ -24,13 +24,19 @@ Daydream Welcome采用了简洁的Low Poly风格，有效降低了模型的面�
 
 ## 功能引导
 ### 手柄按键说明
+Welcome会引导用户将控制器上的按钮逐一操作一遍，当前需要按下的按钮，会以蓝色圆圈标记，如下图：
+![](http://cdn.tyrion.wang/Welcome_2.3_button_info_1.1.jpg)
+用户完成操作会打钩表示该步骤成功：
 ![](http://cdn.tyrion.wang/Welcome_2.3_button_info_1.jpg)
 ![](http://cdn.tyrion.wang/Welcome_2.3_button_info_2.jpg)
 
 ### 头戴和手柄校准
 ![](http://cdn.tyrion.wang/Welcome_3.0_calibrate_1.jpg)
+Welcome以蝴蝶来引导用户的视线，蝴蝶从用户头顶飞进视野，之后再飞到左前方，最后飞出用户的视野，这时用户会不自觉地跟着蝴蝶转头。
 ![](http://cdn.tyrion.wang/Welcome_3.0_calibrate_2.jpg)
+之后，用户会非常自然的看见左边处于原视野之外的提示界面，提醒用户长按Home按钮将视野和手柄射线校准至正前方。
 ![](http://cdn.tyrion.wang/Welcome_3.0_calibrate_3.jpg)
+在重复两次这样的校准后，头戴和手柄的校准结束。
 ![](http://cdn.tyrion.wang/Welcome_3.0_calibrate_4.jpg)
 
 ### 光标说明
