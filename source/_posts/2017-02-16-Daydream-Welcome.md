@@ -50,7 +50,14 @@ Daydream Welcome采用了简洁的Low Poly风格，有效降低了模型的面�
 ![](http://cdn.tyrion.wang/Welcome_5.0_exp_look_around_3.jpg?imageMogr2/thumbnail/468x)
 
 ### 使用手柄拖拽物体
+![](http://cdn.tyrion.wang/Welcome_13.0_exp_museum.jpg?imageMogr2/thumbnail/468x)
+![](http://cdn.tyrion.wang/Welcome_13.0_exp_museum_1.jpg)
+![](http://cdn.tyrion.wang/Welcome_13.0_exp_museum_3.jpg)
 ### 使用手柄投掷物体
+![](http://cdn.tyrion.wang/Welcome_13.0_exp_museum_2.jpg)
 ### 使用手柄拾起物体
+![](http://cdn.tyrion.wang/Welcome_13.0_exp_museum_4.jpg)
 ## 完成引导
 ### 引导使用Home按钮退出
+![](http://cdn.tyrion.wang/Welcome_14.0_press_home_finish.jpg)
+
