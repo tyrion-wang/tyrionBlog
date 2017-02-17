@@ -15,7 +15,7 @@ date: 2017-02-16 16:57:22
 ![](http://cdn.tyrion.wang/Welcome_1.0_structure.png)
 
 # Low Poly场景风格
-![](http://cdn.tyrion.wang/Welcome_11.0_scene_01.png?imageMogr2/thumbnail/1024x)
+![](http://cdn.tyrion.wang/Welcome_11.0_scene_01.jpg?imageMogr2/thumbnail/1024x)
 Daydream Welcome采用了简洁的Low Poly风格
 
 # 引导过程
