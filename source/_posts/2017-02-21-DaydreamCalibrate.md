@@ -9,10 +9,8 @@ tags:
   - 调研
 date: 2017-02-21 09:54:31
 ---
-![](http://cdn.tyrion.wang/Daydream_calibrate_001.jpg?imageMogr2/thumbnail/468x)
-
-<!--more-->
 # 开始校准
+![](http://cdn.tyrion.wang/Daydream_calibrate_001.jpg?imageMogr2/thumbnail/468x)
 首次带上头戴会进入手柄的校准界面
 
 * 进入时屏幕渐亮；
@@ -22,8 +20,10 @@ date: 2017-02-21 09:54:31
 * 控制器Home按钮有动画效果，提示用户点击；
 * 长按Home按钮时，中心蓝色圆圈会缩小，校准成功正好缩小为一个点；
 
-![](http://cdn.tyrion.wang/Daydream_calibrate_002.jpg?imageMogr2/thumbnail/468x)
+<!--more-->
+
 # 校准成功
+![](http://cdn.tyrion.wang/Daydream_calibrate_002.jpg?imageMogr2/thumbnail/468x)
 
 * 中心的一个点重新放大成“打钩”的圆圈”，表示校准成功；
 * 有文字提示用户任何时候都可以使用长按Home的方式校准头戴和控制器；
