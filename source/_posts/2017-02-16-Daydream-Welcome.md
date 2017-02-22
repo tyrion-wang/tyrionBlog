@@ -21,6 +21,7 @@ Daydream Welcome采用了简洁的Low Poly风格，有效降低了模型的面�
 # 引导过程
 ## 调整头戴式设备
 ![](http://cdn.tyrion.wang/Welcome_1.0_HMD_adjust.jpg)
+此时转头环顾场景，当界面在视线外，两三秒后界面会重新显示到用户视野正前方，界面使用淡入的动画，视觉上不会觉得不适。
 
 ## 功能引导
 ### 手柄按键说明
@@ -42,28 +43,41 @@ Welcome以蝴蝶来引导用户的视线，蝴蝶从用户头顶飞进视野，�
 ### 光标说明
 ![](http://cdn.tyrion.wang/Welcome_4.0_cursor_1.jpg)
 ![](http://cdn.tyrion.wang/Welcome_4.0_cursor_2.jpg)
+在提示用户长按Home键再一次校准之后，Welcome会提示用户使用光标点击蝴蝶，点击之后完成光标的说明。
 
 ### 模拟光标偏离的情况，引导校准
 ![](http://cdn.tyrion.wang/Welcome_4.3_cursor_calibrate_1.jpg)
+这里Welcome会为用户模拟射线光标偏离中心的情况。
 ![](http://cdn.tyrion.wang/Welcome_4.3_cursor_calibrate_2.jpg)
+当用户按照提示操作之后，光标会偏离，此时用户能体会到光标偏离后操作上的不便，并且也明白了在这种情况下需要校准。
 ![](http://cdn.tyrion.wang/Welcome_4.3_cursor_calibrate_3.jpg)
+之后Welcome会提示用户长按Home校准，并告诉用户，此时并非将光标对准前方，而是将控制器对准前方。
 ![](http://cdn.tyrion.wang/Welcome_4.3_cursor_calibrate_4.jpg)
 
 ## 体验
 ### 环顾四周
+至此，所有引导都进行完毕了，接下来Welcome将用户至于一系列好玩儿的场景中，让用户体验不一样的场景和一些基本的操控方式。
 ![](http://cdn.tyrion.wang/Welcome_5.0_exp_look_around_1.jpg)
 ![](http://cdn.tyrion.wang/Welcome_5.0_exp_look_around_2.jpg)
 ![](http://cdn.tyrion.wang/Welcome_5.0_exp_look_around_3.jpg?imageMogr2/thumbnail/468x)
+在森林场景中用户将拿着一个手电筒，环顾四周找小动物，确认键是手电筒开关。用户将会找到鹿、青蛙、浣熊、刺猬等动物，最后Welcome将会提示用户点击天空中的脉冲星，跳转到下一个场景。
 
 ### 使用手柄拖拽物体
 ![](http://cdn.tyrion.wang/Welcome_13.0_exp_museum.jpg?imageMogr2/thumbnail/468x)
+这时场景会跳转到博物馆，四周有鲸鱼的骨架、企鹅、乌龟，前方有一闪大窗户，后面的体验场景将在其中切换。
 ![](http://cdn.tyrion.wang/Welcome_13.0_exp_museum_1.jpg)
+这一环节用户将会体验到用控制器拖拽物体，当拖动星球时，太阳系会旋转，用户将体会到拖拽这一交互方式带来的体验。
 ![](http://cdn.tyrion.wang/Welcome_13.0_exp_museum_3.jpg)
+当向内拉动椰树再放开时，椰树会向前弹射出椰子，像发射炮弹一样。
 ### 使用手柄投掷物体
 ![](http://cdn.tyrion.wang/Welcome_13.0_exp_museum_2.jpg)
+这个场景用户可以拿起雪地上的木棍，向前投掷出去，北极狐会跑去将木棍捡回来，非常有趣，北极狐也很可爱。
 ### 使用手柄拾起物体
 ![](http://cdn.tyrion.wang/Welcome_13.0_exp_museum_4.jpg)
+用户可以用控制器拿起沙漠中的树干、石头、牛头骨等，每件物品下面都藏着小动物。
+
 ## 完成引导
 ### 引导使用Home按钮退出
 ![](http://cdn.tyrion.wang/Welcome_14.0_press_home_finish.jpg)
+到这里，Daydream Welcome的所有内容就体验完毕了，整个过程非常舒适且富有乐趣。与其说这是一个新手引导，还不如说这是一款精美的游戏。不少用户都表示反复体验了多次，能在其中感受到快乐。将Welcome算作是Daydream平台的一个经典应用，当之无愧！
 
