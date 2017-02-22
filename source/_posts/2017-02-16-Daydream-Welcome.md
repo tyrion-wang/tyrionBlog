@@ -35,7 +35,7 @@ Welcome会引导用户将控制器上的按钮逐一操作一遍，当前需要�
 ![](http://cdn.tyrion.wang/Welcome_3.0_calibrate_1.jpg)
 Welcome以蝴蝶来引导用户的视线，蝴蝶从用户头顶飞进视野，之后再飞到左前方，最后飞出用户的视野，这时用户会不自觉地跟着蝴蝶转头。
 ![](http://cdn.tyrion.wang/Welcome_3.0_calibrate_2.jpg)
-之后，用户会非常自然的看见左边处于原视野之外的提示界面，提醒用户长按Home按钮将视野和手柄射线校准至正前方。
+之后，用户会非常自然的看见左边处于视野之外的提示界面，提醒用户长按Home按钮将视野和手柄射线校准至正前方。
 ![](http://cdn.tyrion.wang/Welcome_3.0_calibrate_3.jpg)
 在重复两次这样的校准后，头戴和手柄的校准结束。
 ![](http://cdn.tyrion.wang/Welcome_3.0_calibrate_4.jpg)
@@ -43,7 +43,7 @@ Welcome以蝴蝶来引导用户的视线，蝴蝶从用户头顶飞进视野，�
 ### 光标说明
 ![](http://cdn.tyrion.wang/Welcome_4.0_cursor_1.jpg)
 ![](http://cdn.tyrion.wang/Welcome_4.0_cursor_2.jpg)
-在提示用户长按Home键再一次校准之后，Welcome会提示用户使用光标点击蝴蝶，点击之后完成光标的说明。
+在提示用户长按Home键再一次校准之后，Welcome让用户使用光标点击蝴蝶，点击之后完成光标的说明。
 
 ### 模拟光标偏离的情况，引导校准
 ![](http://cdn.tyrion.wang/Welcome_4.3_cursor_calibrate_1.jpg)
@@ -56,22 +56,23 @@ Welcome以蝴蝶来引导用户的视线，蝴蝶从用户头顶飞进视野，�
 
 ## 体验
 ### 环顾四周
-至此，所有引导都进行完毕了，接下来Welcome将用户至于一系列好玩儿的场景中，让用户体验不一样的场景和一些基本的操控方式。
+至此，所有引导都进行完毕了，接下来Welcome将用户至于一系列好玩儿的情境中，让用户体验不一样的场景和一些基本的操控方式。
 ![](http://cdn.tyrion.wang/Welcome_5.0_exp_look_around_1.jpg)
 ![](http://cdn.tyrion.wang/Welcome_5.0_exp_look_around_2.jpg)
 ![](http://cdn.tyrion.wang/Welcome_5.0_exp_look_around_3.jpg?imageMogr2/thumbnail/468x)
 在森林场景中用户将拿着一个手电筒，环顾四周找小动物，确认键是手电筒开关。用户将会找到鹿、青蛙、浣熊、刺猬等动物，最后Welcome将会提示用户点击天空中的脉冲星，跳转到下一个场景。
 
-### 使用手柄拖拽物体
+### 博物馆场景
 ![](http://cdn.tyrion.wang/Welcome_13.0_exp_museum.jpg?imageMogr2/thumbnail/468x)
 这时场景会跳转到博物馆，四周有鲸鱼的骨架、企鹅、乌龟，前方有一闪大窗户，后面的体验场景将在其中切换。
+### 使用手柄拖拽物体
 ![](http://cdn.tyrion.wang/Welcome_13.0_exp_museum_1.jpg)
 这一环节用户将会体验到用控制器拖拽物体，当拖动星球时，太阳系会旋转，用户将体会到拖拽这一交互方式带来的体验。
 ![](http://cdn.tyrion.wang/Welcome_13.0_exp_museum_3.jpg)
-当向内拉动椰树再放开时，椰树会向前弹射出椰子，像发射炮弹一样。
+当向内拉动椰树再放开时，椰树会向前弹射出椰子，像发射炮弹一样，用户可以试着将椰子弹射到海里的小船上。远处会有海豚跳起，近处的石头其实是两只乌龟，一段时间后它们会从壳里出来。
 ### 使用手柄投掷物体
 ![](http://cdn.tyrion.wang/Welcome_13.0_exp_museum_2.jpg)
-这个场景用户可以拿起雪地上的木棍，向前投掷出去，北极狐会跑去将木棍捡回来，非常有趣，北极狐也很可爱。
+这个场景中，一只北极狐会叼来一根木棍，用户可以拿起它，向前投掷出去，北极狐会跑去将木棍捡回来，非常有趣。北极狐很可爱，一头海狮还会时不时的从近处的冰窟窿里跳起来。
 ### 使用手柄拾起物体
 ![](http://cdn.tyrion.wang/Welcome_13.0_exp_museum_4.jpg)
 用户可以用控制器拿起沙漠中的树干、石头、牛头骨等，每件物品下面都藏着小动物。
