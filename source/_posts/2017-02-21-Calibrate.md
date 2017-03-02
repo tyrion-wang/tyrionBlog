@@ -11,7 +11,7 @@ date: 2017-02-21 09:54:31
 ---
 # 开始校准
 ![](http://cdn.tyrion.wang/Daydream_calibrate_001.jpg?imageMogr2/thumbnail/468x)
-首次带上头戴会进入手柄的校准界面
+首次带上头戴会进入视角和控制器的校准场景
 
 * 进入时屏幕渐亮；
 * 若界面歪斜，将缓慢匀速的调整至水平；
