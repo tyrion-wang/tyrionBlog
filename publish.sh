@@ -1,6 +1,6 @@
 #! /bin/bash 
-basepath=$(cd `dirname $0`; pwd)
-cd $basepath
+BASEDIR="$( dirname "$0" )"
+cd "$BASEDIR"
 git add .
 git commit -am "update"
 git push
